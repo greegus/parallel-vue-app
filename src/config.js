@@ -1,0 +1,1 @@
+export default JSON.parse(document.getElementById('appData').innerText)
